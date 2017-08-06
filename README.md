@@ -14,6 +14,9 @@ DifDinRu.zip    - ZIPped files of screen visualizer for Win. Freeware
 DifDyn4LED.spl7   Schematics of DifDyn with LED Display ifn SPlan 7.0 format
 
 t2.hex    binary code for atmega 328 pu microcontroller for DidDyn with LED Display. Need no boot.
+InstructionEng.pdf Instruction how to launch and work at PC Force Monitor. 
+DifDyn4Engl.zip   Freeware, need no installation Monitor Program for Windows PC.
+
 
 
 
